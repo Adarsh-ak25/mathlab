@@ -1,0 +1,1 @@
+MathLab is a Python-based project focused on solving fundamental problems in linear algebra. It provides simple implementations of core mathematical operations, making it useful for learning, experimentation, and basic computations
